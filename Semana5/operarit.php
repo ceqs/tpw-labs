@@ -17,7 +17,7 @@
 	$decrement= $nro2;
 	$decrement--;
 	echo "<hr>La suma de ".$nro1." + ".$nro2." es: $suma";
-	echo "<hr>La resta de ".$nro1." + ".$nro2." es: $resta";
+	echo "<hr>La resta de ".$nro1." - ".$nro2." es: $resta";
 	echo "<hr>La multiplicación de ".$nro1." * ".$nro2." es: $mult";
 	echo "<hr>La división de ".$nro1." / ".$nro2." es: $div";
 	echo "<hr>El residuo de ".$nro1." con 2 es: $residuo";
