@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
-<head>
-	<title><</title>
-</head>
-<body>
-<?php
+	<head>
+		<title><</title>
+	</head>
+	<body>
+	<?php
 	$nro1= $_GET['nro1'];
 	$nro2= $_GET['nro2'];
 	$suma= $nro1 + $nro2;
@@ -24,5 +24,5 @@
 	echo "<hr>El incremento de ".$nro1." es: $increment";
 	echo "<hr>El decremento de ".$nro2." es: $decrement";
 	?>
-</body>
+	</body>
 </html>
