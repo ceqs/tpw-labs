@@ -1,7 +1,7 @@
 <?php
     //Conexion a la bd
     function conectar() {
-        $conn= mysqli_connect ("localhost", "root", "", "usuariosdb");
+        $conn= mysqli_connect ("127.0.0.1", "root", "", "usuariosdb");
         return $conn; 
     }
     
