@@ -9,7 +9,7 @@
 <body>
     <?php
         include 'funciones.php';
-        echo "askldj " + session_status();
+       
     ?>
         <form action="index2.php" method="post">
             <label><b>Usuario: </b></label>

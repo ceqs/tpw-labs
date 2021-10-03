@@ -7,9 +7,16 @@
     <title>Document</title>
 </head>
 <body>
-    <?php
-      //  session_destroy();
-    ?>
-    <h1>Usuario Admitido</h1>
+sd
+<?php 
+$anchoImagen = 450; 
+$altoImagen = 400; 
+$imagen = imagecreate($anchoImagen, $altoImagen); 
+$color= #000000;
+$negro = imagecolorallocate($imagen, 0, 0, 0); 
+imagesetpixel($imagen, 1, 2, $color);
+
+?>
+ 
 </body>
 </html>
