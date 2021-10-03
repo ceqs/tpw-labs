@@ -9,7 +9,6 @@
 <body>
     <?php
         include 'funciones.php';
-       
     ?>
         <form action="index2.php" method="post">
             <label><b>Usuario: </b></label>
