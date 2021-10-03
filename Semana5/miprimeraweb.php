@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Operadores Aritméticas</title>
+        <title>Semana 5 - Operadores Aritméticas</title>
     </head>
     <body>
         <CENTER>
@@ -12,7 +12,7 @@
                 <label>Ingrese el numero 1: </label>
                 <input type="text" name="nro1"><br>
                 <label>Ingrese el numero 2: </label>
-                <input type="text" name="nro2"><br>
+                <input type="text" name="nro2"><br><br>
                 <input type="submit">
             </form>
         </CENTER>
